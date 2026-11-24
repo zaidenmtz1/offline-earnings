@@ -20,11 +20,11 @@ The basic snippet works until it doesn't. This module handles the parts that usu
 
 ## Install
 
-**Wally** (once published; replace `YOUR_USERNAME` with the real scope):
+**Wally** (once published; replace `zaidenmtz1` with the real scope):
 
 ```toml
 [dependencies]
-OfflineEarnings = "YOUR_USERNAME/offline-earnings@0.1.0"
+OfflineEarnings = "zaidenmtz1/offline-earnings@0.1.0"
 ```
 
 **Manual:** copy `src/init.luau` into a ModuleScript named `OfflineEarnings` in `ReplicatedStorage` or `ServerScriptService`.
