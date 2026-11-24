@@ -4,7 +4,7 @@
 	Pure calculation of what a player earned while they were away.
 	No DataStore, no Roblox services: you pass numbers in, you get numbers out.
 
-	https://github.com/YOUR_USERNAME/offline-earnings
+	https://github.com/zaidenmtz1/offline-earnings
 ]]
 
 local OfflineEarnings = {}
