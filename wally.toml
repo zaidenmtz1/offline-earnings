@@ -1,9 +1,9 @@
 [package]
-name = "YOUR_USERNAME/offline-earnings"
+name = "zaidenmtz1/offline-earnings"
 description = "Offline earnings for Roblox idle games: caps, efficiency, boosts that expire mid-absence, and clock safety."
 version = "0.1.0"
 license = "MIT"
-authors = ["YOUR NAME"]
+authors = ["Zaiden Martinez"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
